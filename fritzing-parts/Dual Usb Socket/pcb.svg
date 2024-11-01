@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="20.299999mm"
+   height="16.440001mm"
+   viewBox="0 0 20.300033 16.440004"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pcb.svg">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview37"
+     showgrid="false"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:document-units="mm"
+     inkscape:zoom="13.16647"
+     inkscape:cx="29.915752"
+     inkscape:cy="27.88749"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <sodipodi:guide
+       position="1.6500028,1.6500004"
+       orientation="0,1"
+       id="guide4213"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="18.650031,1.6500004"
+       orientation="1,0"
+       id="guide4215"
+       inkscape:label=""
+       inkscape:color="rgb(255,7,0)" />
+    <sodipodi:guide
+       position="18.650031,14.790004"
+       orientation="0,1"
+       id="guide4217"
+       inkscape:label=""
+       inkscape:color="rgb(255,2,0)" />
+    <sodipodi:guide
+       position="17.500029,1.6500004"
+       orientation="1,0"
+       id="guide4227"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.6500028,1.6500004"
+       orientation="1,0"
+       id="guide4229"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="11.82002,1.6500004"
+       orientation="1,0"
+       id="guide4231"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14.530024,1.6500004"
+       orientation="1,0"
+       id="guide4265"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,17)" />
+    <sodipodi:guide
+       position="17.150029,1.6500004"
+       orientation="1,0"
+       id="guide4267"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,4)" />
+    <sodipodi:guide
+       position="14.030023,4.7200012"
+       orientation="0,1"
+       id="guide4269"
+       inkscape:label=""
+       inkscape:color="rgb(2,255,0)" />
+    <sodipodi:guide
+       position="14.030023,7.2200018"
+       orientation="0,1"
+       id="guide4271"
+       inkscape:label=""
+       inkscape:color="rgb(2,255,0)" />
+    <sodipodi:guide
+       position="14.030023,9.2200023"
+       orientation="0,1"
+       id="guide4273"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,0)" />
+    <sodipodi:guide
+       position="14.030023,11.720003"
+       orientation="0,1"
+       id="guide4275"
+       inkscape:label=""
+       inkscape:color="rgb(0,255,8)" />
+  </sodipodi:namedview>
+  <g
+     id="copper1"
+     transform="translate(-7.9489085,0.95435617)">
+    <circle
+       id="connector0pad"
+       connectorname="GND1"
+       cx="19.768929"
+       cy="0.69563437"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+       r="1.3998399" />
+    <circle
+       id="connector1pad"
+       connectorname="GND2"
+       cx="25.448938"
+       cy="0.69563478"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+       r="1.3998399" />
+    <circle
+       r="1.3998399"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="13.835657"
+       cx="25.448938"
+       connectorname="GND3"
+       id="connector3pad" />
+    <circle
+       r="1.3998399"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="13.835656"
+       cx="19.768929"
+       connectorname="GND4"
+       id="connector4pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="3.7656393"
+       cx="22.478931"
+       connectorname="GND-1"
+       id="connector5pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="6.2656436"
+       cx="22.478931"
+       connectorname="D+1"
+       id="connector6pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="8.2656469"
+       cx="22.478931"
+       connectorname="D-1"
+       id="connector7pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="10.765652"
+       cx="22.478931"
+       connectorname="VBUS-1"
+       id="connector8pad" />
+    <circle
+       r="0.75002909"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="3.7656393"
+       cx="25.098938"
+       connectorname="GND-2"
+       id="connector9pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="6.2656436"
+       cx="25.098938"
+       connectorname="D+2"
+       id="connector10pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="8.2656469"
+       cx="25.098938"
+       connectorname="D-2"
+       id="connector11pad" />
+    <circle
+       r="0.75002903"
+       style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+       cy="10.765652"
+       cx="25.098938"
+       connectorname="VBUS-1"
+       id="connector12pad" />
+    <g
+       id="copper0">
+      <circle
+         id="an1"
+         connectorname="GND1"
+         cx="19.768929"
+         cy="0.69563395"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+         r="1.3998399" />
+      <circle
+         id="an2"
+         connectorname="GND2"
+         cx="25.448938"
+         cy="0.69563437"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+         r="1.3998399" />
+      <circle
+         id="an3"
+         connectorname="GND3"
+         cx="25.448938"
+         cy="13.835657"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+         r="1.3998399" />
+      <circle
+         id="an4"
+         connectorname="GND4"
+         cx="19.768929"
+         cy="13.835656"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.50000083;stroke-miterlimit:4;stroke-dasharray:none"
+         r="1.3998399" />
+      <circle
+         id="c1-1"
+         connectorname="GND-1"
+         cx="22.478931"
+         cy="3.7656393"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c1-2"
+         connectorname="D+1"
+         cx="22.478931"
+         cy="6.2656436"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c1-3"
+         connectorname="D-1"
+         cx="22.478931"
+         cy="8.2656469"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c1-4"
+         connectorname="VBUS-1"
+         cx="22.478931"
+         cy="10.765652"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c2-1"
+         connectorname="GND-2"
+         cx="25.098938"
+         cy="3.7656393"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002909" />
+      <circle
+         id="c2-2"
+         connectorname="D+2"
+         cx="25.098938"
+         cy="6.2656436"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c2-3"
+         connectorname="D-2"
+         cx="25.098938"
+         cy="8.2656469"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+      <circle
+         id="c2-4"
+         connectorname="VBUS-1"
+         cx="25.098938"
+         cy="10.765652"
+         style="fill:none;stroke:#f7bd13;stroke-width:0.30000049;stroke-miterlimit:4;stroke-dasharray:none"
+         r="0.75002903" />
+    </g>
+  </g>
+  <g
+     id="silkscreen"
+     transform="translate(1.6514499,0.46518782)">
+    <line
+       class="other"
+       x1="0.10575483"
+       y1="1.2915254"
+       x2="0.10575483"
+       y2="14.162719"
+       id="line29"
+       style="stroke:#f0f0f0;stroke-width:0.21044686;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="0.1016"
+       y1="1.2950093"
+       x2="1.1016001"
+       y2="1.2950093"
+       id="line31"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="0.11231748"
+       y1="14.20251"
+       x2="1.1123176"
+       y2="14.20251"
+       id="line33"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+    <line
+       class="other"
+       x1="4.1016002"
+       y1="11.154"
+       x2="4.1016002"
+       y2="3.154"
+       id="line35"
+       style="stroke:#f0f0f0;stroke-width:0.2032;stroke-linecap:round" />
+  </g>
+</svg>
